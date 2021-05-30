@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harry-scanlan
 - 👀 I’m interested in marketing, technical seo, data analytics, UX design
-- 🌱 I’m currently learning HTML, CSS, Javascript Fundamentals
+- 🌱 I’m curious in understanding more HTML, CSS, Javascript and PHP. Also interested in the use of Python.
 - 📫 linkedin.com/in/harry-scanlan1998/
 
 <!---
